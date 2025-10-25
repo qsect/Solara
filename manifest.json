@@ -1,7 +1,7 @@
 {
   "name": "Free Music",
   "short_name": "Music",
-  "start_url": "https://music.vvvv.ee/",
+  "start_url": "/",
   "display": "standalone",
   "orientation": "portrait",
   "background_color": "#000000",
@@ -20,3 +20,4 @@
     }
   ]
 }
+
