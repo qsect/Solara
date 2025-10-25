@@ -1,0 +1,22 @@
+{
+  "name": "Free Music",
+  "short_name": "Music",
+  "start_url": "https://music.vvvv.ee/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#000000",
+  "theme_color": "#000000",
+  "description": "Free Music - 在线听歌、搜索歌曲和歌手",
+  "icons": [
+    {
+      "src": "/favicon.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/favicon.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
